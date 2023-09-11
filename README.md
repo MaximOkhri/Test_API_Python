@@ -1,1 +1,1 @@
-# Test_API_Python
+# Test_API_Python - Учебный репозиторий по тестированию API.
